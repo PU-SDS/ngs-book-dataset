@@ -1,0 +1,26 @@
+SNPs_ID	cM	Scaffold ID	Position	Scaffold length
+SNP-1	0	scaffold_spX_1	15730	490543
+SNP-2	0.25	scaffold_spX_1	66422	490543
+SNP-3	1.26	scaffold_spX_1	307133	490543
+SNP-4	1.26	scaffold_spX_2	160380	595596
+SNP-5	1.75	scaffold_spX_2	232906	595596
+SNP-6	1.75	scaffold_spX_2	253654	595596
+SNP-7	2.75	scaffold_spX_2	537549	595596
+SNP-8	3.75	scaffold_spX_3	29359	270336
+SNP-9	4.75	scaffold_spX_4	8775	253128
+SNP-10	5	scaffold_spX_5	29558	194487
+SNP-11	5.75	scaffold_spX_5	66458	194487
+SNP-12	6	scaffold_spX_6	21022	260167
+SNP-13	6.5	scaffold_spX_6	31802	260167
+SNP-14	6.75	scaffold_spX_6	80770	260167
+SNP-15	7.75	scaffold_spX_6	189272	260167
+SNP-16	8.25	scaffold_spX_7	69621	437614
+SNP-18	8.25	scaffold_spX_7	86037	437614
+SNP-17	8.25	scaffold_spX_7	106723	437614
+SNP-19	9.75	scaffold_spX_7	296432	437614
+SNP-20	10	scaffold_spX_8	60790	378403
+SNP-21	11.76	scaffold_spX_8	158399	378403
+SNP-22	11.76	scaffold_spX_9	29131	301211
+SNP-23	11.76	scaffold_spX_9	39813	301211
+SNP-24	13.27	scaffold_spX_10	13896	224086
+SNP-25	14.28	scaffold_spX_10	93641	224086
